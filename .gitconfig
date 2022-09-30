@@ -1,0 +1,2 @@
+git config --global user.email "scholars@fpse.unibuc.ro" 
+git config --global user.name "scholarsproject"
