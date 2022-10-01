@@ -11,7 +11,8 @@
 baseURL: https://unicef.github.io/inventory-hugo-theme/
 title: UNICEF Inventory Theme
 theme: inventory
-languageCode: en-us
+languageCode: ro-ro
+defaultContentLanguage: ro
 enableEmoji: true
 enableGitInfo: true
 
@@ -61,6 +62,15 @@ privacy:
     enableDNT: true
   youtube:
     privacyEnhanced: true
+
+# --- blogdown suggests ---
+
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
 
 
 # --- custom settings ---
@@ -112,12 +122,18 @@ params:
 # themify icon pack : https://themify.me/themify-icons
 
   social:
+    - icon: ti-email
+      name: Scholars e-mail address
+      link: mailto:scholars@fpse.unibuc.ro
+    - icon: ti-facebook
+      name: Scholars facebook page
+      link: https://facebook.com/
     - icon: ti-github
       name: UNICEF Inventory Theme on GitHub
-      link: https://github.com/unicef/inventory-hugo-theme
-    - icon: ti-twitter-alt
-      name: "@UNICEFinnovate on Twitter"
-      link: https://twitter.com/UNICEFinnovate
+      link: https://github.com/scholarsproject/scholarsproject_website
+    # - icon: ti-twitter-alt
+    #   name: "@UNICEFinnovate on Twitter"
+    #   link: https://twitter.com/UNICEFinnovate
 
 
 # --- taxonomy settings ---
@@ -137,7 +153,7 @@ Languages:
     languageCode: en-us
     weight: 1
     home: Home
-    copyright: "Copyright &copy; 2020-2022 a Hugo theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/)"
+    copyright: "Copyright &copy; 2021-2025 SCOLARS Team <br> Website creted using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/)"
     params:
       banner:
         title: UNICEF Inventory Theme
@@ -158,42 +174,45 @@ Languages:
     # --- navigation menu ---
     menu:
       main:
-        - name: FAQ
+        - name: About us
           weight: 10
-          url: faq
-        - name: Contact
+          url: about
+        - name: FAQ
           weight: 20
-          url: contact
+          url: faq
 
-        - name: pages
-          weight: 50
-          url: pages
+        - name: studies
+          weight: 40
+          url: studies
           hasChildren: true
         # Sub-pages in this drop-down should correspond to categories created in /content/
         - name: 1. About
-          parent: pages
+          parent: studies
           weight: 10
-          url: about
+          url: bla
         - name: 2. Features
-          parent: pages
+          parent: studies
           weight: 20
           url: features
         - name: 3. Installation
-          parent: pages
+          parent: studies
           weight: 30
           url: install
         - name: 4. Contributing
-          parent: pages
+          parent: studies
           weight: 50
           url: contributing
 
+        - name: Contact
+          weight: 50
+          url: contact
 ############################# español / Spanish #############################
-  es:
-    languageName: es
-    languageCode: es-mx
+  ro:
+    languageName: ro
+    languageCode: ro-ro
     weight: 2
-    home: Página principal
-    copyright: "Copyright &copy; 2020-2022 una plantilla de [UNICEF Office of Innovation](https://www.unicef.org/innovation/)"
+    home: Pagina principală
+    copyright: "Copyright &copy; 2021-2025 Echipa SCOLARS <br> Website creat cu șablonul [UNICEF Office of Innovation](https://www.unicef.org/innovation/) pentru [Hugo](https://gohugo.io/)"
     params:
       banner:
         title: Plantilla de UNICEF Inventory
@@ -212,33 +231,38 @@ Languages:
         description: Documentación de la plantilla de UNICEF Inventory y sitio de ejemplo. Desarrollado por Hugo, un generador de sitio estático. Una herramienta de open source de la Oficina de Innovación de UNICEF, Ventures Team.
 
     # --- navigation menu ---
+    # --- navigation menu ---
     menu:
       main:
-        - name: FAQ
-          weight: 10
-          url: faq
-        - name: Contactar
-          weight: 20
-          url: contact
-
-        - name: pages
-          weight: 50
-          url: pages
-          hasChildren: true
-        # Sub-pages in this drop-down should correspond to categories created in /content/
-        - name: 1. Sobre
-          parent: pages
+        - name: Despre noi
           weight: 10
           url: about
-        - name: 2. Características
-          parent: pages
+        - name: FAQ
+          weight: 20
+          url: faq
+
+        - name: studii
+          weight: 40
+          url: studies
+          hasChildren: true
+        # Sub-pages in this drop-down should correspond to categories created in /content/
+        - name: 1. About
+          parent: studii
+          weight: 10
+          url: bla
+        - name: 2. Features
+          parent: studii
           weight: 20
           url: features
-        - name: 3. Instalación
-          parent: pages
+        - name: 3. Installation
+          parent: studii
           weight: 30
           url: install
-        - name: 4. Contribuyendo
-          parent: pages
+        - name: 4. Contributing
+          parent: studii
           weight: 50
           url: contributing
+
+        - name: Contact
+          weight: 50
+          url: contact
