@@ -1,5 +1,5 @@
 ---
-title: "Questions fréquemment posées"
+title: "Întrebări frecvente (FAQ)"
 draft: false
 ---
 

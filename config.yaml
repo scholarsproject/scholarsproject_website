@@ -81,7 +81,7 @@ params:
   editPrefix: https://github.com/unicef/inventory-hugo-theme/blob/main/exampleSite/content
 
   # Shown on all pages. When logo is empty, it will show your site title, set above.
-  logo: images/324good3_v1_smallerer.png
+  logo: images/324good3_v2_sizetiny.png
   # empty is: ""
 
   # OpenGraph data
@@ -154,7 +154,7 @@ Languages:
     languageCode: en-us
     weight: 1
     home: Home
-    copyright: "Copyright &copy; 2021-2025 SCOLARS Team <br> Website creted using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/)"
+    copyright: "Copyright &copy; 2021-2025 SCOLARS Team <br> Website created using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/)"
     params:
       banner:
         title: Welcome to Scholars Project
