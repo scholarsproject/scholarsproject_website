@@ -154,7 +154,7 @@ Languages:
     languageCode: en-us
     weight: 1
     home: Home
-    copyright: "Copyright &copy; 2021-2025 SCOLARS Team <br> Website created using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/)"
+    copyright: "Copyright &copy; 2021-2025 SCHOLARS Team <br> Website created using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/)"
     params:
       banner:
         title: Welcome to Scholars Project
@@ -213,11 +213,11 @@ Languages:
     languageCode: ro-ro
     weight: 2
     home: Acasă
-    copyright: "Drepturi de autor &copy; 2021-2025 Echipa SCOLARS <br> Website creat cu șablonul [UNICEF Office of Innovation](https://www.unicef.org/innovation/) pentru [Hugo](https://gohugo.io/)"
+    copyright: "Drepturi de autor &copy; 2021-2025 Echipa SCHOLARS <br> Website creat cu șablonul [UNICEF Office of Innovation](https://www.unicef.org/innovation/) pentru [Hugo](https://gohugo.io/)"
     params:
       banner:
         title: Bun venit pe Proiectul Scholars
-        subtitle: Contribuție Socială prin Optimizarea Literației în Sănătate Mentală pentru Reziliență Academică în Școli
+        subtitle: Contribuție Socială prin Optimizarea Literației în Sănătate Mintală pentru Reziliență Academică în Școli
         bg_image: images/banner.jpg
         placeholder: Aveți o întrebare? Căutați aici sau citiți FAQ.
       cta:

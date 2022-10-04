@@ -7,4 +7,4 @@
 
 
 
-Copyright &copy; 2021-2025 SCOLARS Team <br> Website created using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/)
+Copyright &copy; 2021-2025 SCHOLARS Team <br> Website created using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/) and deployed through Netlify. Visit us on [scholarsproject.ro](https://scholarsproject.ro) 
