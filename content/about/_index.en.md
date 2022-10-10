@@ -3,6 +3,7 @@ title: "About us"
 draft: false
 ---
 
+Lack of academic fulfilment in adolescents is a key problem which impedes their subsequent social and economic inclusion and hinders their quality of life. This is a pervasive problem, often rooted in the adversity and inherent inequality some youth experience, and further maintained through a lack of appropriate services, such as mental health education and resilience building programs. This becomes especially apparent in the case of particularly vulnerable groups, such as adolescents already facing mental health problems, whose specific concerns are not in any way addressed by the Romanian educational system. To this end, we aim to employ evidence-based, culturally sensitive strategies to address adolescents’ needs through mental health education and empowerment.
 
 ### SCHOLARS Project Objectives
 
@@ -11,6 +12,7 @@ SCHOLARS aims to:
 - (2) develop an intervention for fostering academic resilience and mental health literacy among the Romanian vulnerable social groups, and 
 - (3) raise social awareness and build towards decreasing stigma associated with mental health concerns.
 
+With a primary focus on tackling adolescents’ mental health concerns, this project is in line with the mental health priorities for Europe, as highlighted by the World Health Organization.
 
 ### SCHOLARS Project expected results
 
