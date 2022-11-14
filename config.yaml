@@ -78,20 +78,22 @@ ignoreFiles:
 params:
   # "Edit this page" feature: git forge content base link
   # [Example] editPrefix: https://github.com/username/repo-name/blob/main/content
-  editPrefix: https://github.com/unicef/inventory-hugo-theme/blob/main/exampleSite/content
+  editPrefix: https://github.com/scholarsproject/scholarsproject_website/tree/main/content
 
   # Shown on all pages. When logo is empty, it will show your site title, set above.
-  logo: images/324good3_v2_sizetiny.png
+  logo: images/324good3_v2_headerwht_lowreso.png
   # empty is: ""
 
   # OpenGraph data
-  description: UNICEF Inventory Theme. This Hugo-powered static site is documentation for and an example of the UNICEF Inventory Theme.
-  author: UNICEF Office of Innovation, and others
+  description: Scholars Project website
+  author: UNICEF Office of Innovation, and scholars team
   # Tip: Find a royalty-free image from unsplash.com for an OpenGraph image.
-  image: "images/banner.jpg"
+  # "images/banner.jpg"
+  image: "images/vid_cut_flip_crop.gif"
 
   # customize color
-  primary_color: "#1CABE2"
+  primary_color: "#0028789e"
+  # "#1CABE2"     "#0028789e"
   primary_color_light: "#1b66b1"
   body_color: "#f2f4f6"
   text_color: "#636363"
@@ -101,7 +103,7 @@ params:
   light_color: "#f8f9fa"
 
   # font family (choose from https://fonts.google.com/)
-  font_family: "Lato"
+  font_family: "Arial"
 
   # contact form action (works with https://formspree.io)
   contact_form_action: "#"
@@ -154,12 +156,14 @@ Languages:
     languageCode: en-us
     weight: 1
     home: Home
-    copyright: "Copyright &copy; 2021-2025 SCHOLARS Team <br> Website created using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/)"
+    copyright: "Copyright &copy; 2021-2022 SCHOLARS Team <br> Website created using theme by [UNICEF Office of Innovation](https://www.unicef.org/innovation/) for [Hugo](https://gohugo.io/)"
     params:
       banner:
         title: Welcome to Scholars Project
         subtitle: Social Contribution through Health Optimization Literacy to Academic Resilience in Schools
-        bg_image: images/banner.jpg
+        # images/banner.jpg
+        bg_image: images/vid_cut_flip_crop.gif 
+        height: 100
         placeholder: Have a question? Search the site here or read the FAQ.
       cta:
         enable: true
@@ -178,8 +182,11 @@ Languages:
         - name: About us
           weight: 10
           url: about
-        - name: FAQ
+        - name: Team
           weight: 20
+          url: team
+        - name: FAQ
+          weight: 30
           url: faq
 
         - name: studies
@@ -213,12 +220,13 @@ Languages:
     languageCode: ro-ro
     weight: 2
     home: Acasă
-    copyright: "Drepturi de autor &copy; 2021-2025 Echipa SCHOLARS <br> Website creat cu șablonul [UNICEF Office of Innovation](https://www.unicef.org/innovation/) pentru [Hugo](https://gohugo.io/)"
+    copyright: "Drepturi de autor &copy; 2021-2022 Echipa SCHOLARS <br> Website creat cu șablonul [UNICEF Office of Innovation](https://www.unicef.org/innovation/) pentru [Hugo](https://gohugo.io/)"
     params:
       banner:
         title: Bun venit pe Proiectul Scholars
         subtitle: Contribuție Socială prin Optimizarea Literației în Sănătate Mintală pentru Reziliență Academică în Școli
-        bg_image: images/banner.jpg
+        # images/banner.jpg
+        bg_image: images/vid_cut_flip_crop.gif
         placeholder: Aveți o întrebare? Căutați aici sau citiți FAQ.
       cta:
         enable: true
@@ -238,8 +246,11 @@ Languages:
         - name: Despre noi
           weight: 10
           url: about
-        - name: FAQ
+        - name: Echipa
           weight: 20
+          url: team
+        - name: FAQ
+          weight: 30
           url: faq
 
         - name: studii

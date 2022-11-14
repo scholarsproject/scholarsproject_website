@@ -5,6 +5,12 @@ draft: false
 
 In construction
 
+
+{{< faq "Which high schools may enroll in the Scholars program" >}}
+Any high school can enroll both in the assessment phase and in the intervention phase
+{{</ faq >}}
+
+
 <!--
 
 {{< faq "Will updates also be free?" >}}

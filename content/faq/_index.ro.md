@@ -5,6 +5,15 @@ draft: false
 
 În construcție
 
+
+{{< faq "Ce licee se pot înrola în programul Scholars" >}}
+Orice liceu poate lua parte atât în faza de evaluare a adolescenților, cât și în cea de intervenție psihologică.
+{{</ faq >}}
+
+
+
+
+
 <!--
 
 {{< faq "Will updates also be free?" >}}

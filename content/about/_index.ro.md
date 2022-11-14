@@ -1,6 +1,7 @@
 ---
 title: "Despre noi"
 draft: false
+hide_edit_btn: true
 ---
 
 Lipsa împlinirii academice a adolescenților le împiedică incluziunea socială și economică ulterioară și le afectează calitatea vieții. Aceasta este o problemă adesea înrădăcinată în adversități și inegalități inerente, și menținută prin lipsa serviciilor adecvate, cum ar fi educația pentru sănătatea mintală și programele de consolidare a rezilienței. Acest lucru devine evident mai ales în cazul grupurilor deosebit de vulnerabile, cum ar fi adolescenții care se confruntă deja cu probleme de sănătate mintală, ale căror nevoi specifice nu sunt abordate în niciun fel de sistemul educațional românesc. Astfel, ne propunem să folosim strategii bazate pe dovezi, sensibile din punct de vedere cultural, pentru a răspunde nevoilor adolescenților prin educație și abilitare în sănătatea mintală.
