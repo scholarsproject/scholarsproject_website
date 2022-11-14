@@ -26,13 +26,13 @@
 <br></br>
 <div class="imgcontainer">
   <div class="box">
-    <img src="images/unibuc2.png" alt="">
+    <img src="/images/unibuc2.png" alt="">
   </div>
   <div class="box">
-      <img src="images/minister_edu2.png" alt="">
+      <img src="/images/minister_edu2.png" alt="">
   </div>
   <div class="box">
-      <img src="images/uefscdi.png" alt="">
+      <img src="/images/uefscdi.png" alt="">
   </div>
 </div>
 
@@ -47,4 +47,4 @@
 </div>
 
 <br></br>
-<img src="images/324good3_v2_lowreso.png"  width="50%" height="50%">
+<img src="/images/324good3_v2_lowreso.png"  width="50%" height="50%">
