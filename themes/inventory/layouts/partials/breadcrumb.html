@@ -1,0 +1,29 @@
+{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $.Scratch.Add "path" .Site.BaseURL }}
+
+<div class="breadcrumbs">
+  <!-- Scholars change here - breadcrumb was disabled -->
+  <!--
+   <a href="{{ .Site.BaseURL}}">Home</a>
+  {{ range $index, $element := split $url "/" }}
+    {{ $.Scratch.Add "path" $element }}
+      {{ if ne $element "" }}
+      &gt; <a href="{{ $.Scratch.Get "path" }}" class="breadcrumbLink">{{ . }}</a>
+      {{ $.Scratch.Add "path" "/" }}
+      {{ end }}
+  {{ end }}
+  -->
+  
+  
+  
+  <!-- Scholars change here - added -->
+  <!-- <hr style="height:1px; visibility:hidden;" /> -->
+  <div style="text-align: center;">
+  <img src="/images/wht_unibuc2.png" width="7%" hight="7%"> &nbsp;&nbsp;  
+  <img src="/images/wht_minister_edu2.png" width="15%" hight="15%"> &nbsp;&nbsp; 
+  <img src="/images/wht_uefscdi.png" width="10%" hight="10%"> 
+  </div>
+  <!-- Scholars change here - end -->
+
+
+</div>

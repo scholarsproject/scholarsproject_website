@@ -1,0 +1,41 @@
+name = "UNICEF Inventory"
+license = "MPL-2.0"
+licenselink = "https://github.com/unicef/inventory-hugo-theme/blob/main/LICENSE.txt"
+description = "UNICEF Inventory theme, for use with Hugo. A simple knowledgebase to share information with others."
+
+# The home page of the theme, where the source can be found.
+homepage = "https://github.com/unicef/inventory-hugo-theme"
+
+# If you have a running demo of the theme.
+demosite = "https://unicef.github.io/inventory-hugo-theme/"
+
+tags = [
+    "bootstrap",
+    "customizable",
+    "contact form",
+    "docs",
+    "documentation",
+    "fast",
+    "flexbox",
+    "formspree",
+    "minimal",
+    "multilingual",
+    "responsive",
+    "simple"
+]
+
+features = [
+    "contact form",
+    "custom colors",
+    "multilingual",
+    "responsive",
+    "search"]
+
+[author]
+    name = UNICEF Office of Innovation, Ventures Team"
+    homepage = "https://www.unicef.org/innovation/ventures"
+
+[original]
+    author = "Themefisher"
+    homepage = "https://themefisher.com"
+    repo = "https://github.com/themefisher/dot-hugo"

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
+  {{ partial "head.html" . }}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  <body>
+    {{ if .IsHome }}
+    {{ "<!-- header -->" | safeHTML }}
+    <header class="banner {{if .Site.Params.banner.bg_image}}overlay bg-cover{{else}}bg-primary{{end}}" data-background="{{ .Site.Params.banner.bg_image | absURL }}">
+      {{ partial "navigation.html" . }}
+      {{ partialCached "banner.html" . }}
+    </header>
+    {{ "<!-- /header -->" | safeHTML }}
+    {{ partial "alert.html" . }}
+    {{ else }}
+    {{ "<!-- header -->" | safeHTML }}
+    <header class="shadow-bottom sticky-top bg-white">
+      {{ partial "navigation.html" . }}
+    </header>
+    {{ "<!-- /header -->" | safeHTML }}
+    {{ end }}
+    {{ block "main" . }}{{ end }}
+    {{ partialCached "footer.html" . }}
+  </body>
+
+</html>

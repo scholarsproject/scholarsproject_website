@@ -1,0 +1,10 @@
+---
+- buttons:
+    edit_page: Editează pagina
+- layouts:
+    redirect_title: Pagina căutată s-a mutat
+    redirect_body: căutată s-a mutat, veți fi redirecționați în 5 secunde
+- footer:
+    legal: "Căutați informații legale cu privire la comunicarea digitală provizionate de {{ $.Site.Params.brand.parent_org_name }}."
+- topics_title: ""
+- send: Trimite
