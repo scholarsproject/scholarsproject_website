@@ -184,7 +184,7 @@ Languages:
           url: about
         - name: Team
           weight: 20
-          url: team
+          url: members
         - name: FAQ
           weight: 30
           url: faq
@@ -248,7 +248,7 @@ Languages:
           url: about
         - name: Echipa
           weight: 20
-          url: team
+          url: members
         - name: FAQ
           weight: 30
           url: faq
