@@ -7,9 +7,13 @@
 
       <div class="navbar-brand">
         {{ if $logo }}
-        <img class="img-fluid d-inline globalLogoImg"
-          src="{{ $logo | absURL }}"
-          alt="{{ site.Title }}">
+        <!-- Scholars modified to have home hyperlink on logo -->
+        <a href="{{ site.BaseURL | relLangURL }}">
+          <img class="img-fluid d-inline globalLogoImg"
+            src="{{ $logo | absURL }}"
+            alt="{{ site.Title }}">
+        <!-- Scholars modified - above -->    
+        </a>  
         {{ end }}
         <a class="text-center text-white d-block px-1" href="{{ site.BaseURL | relLangURL }}">{{ site.Title }}</a>
       </div>
