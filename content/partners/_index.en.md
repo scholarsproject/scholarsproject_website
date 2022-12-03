@@ -17,15 +17,16 @@ redirectUrl: https://www.unicef.org/innovation/
 -->
 
 
-#### List of partner high schools
-
-Coming soon...
-
-
 #### Parnership agreement
 
 <i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Acord_colaborare_Licee_scholars.pdf" download>Parnership agreement</a> <br>
 <i class="fas fa-file-word"></i>&nbsp;<a href="/words/Acord_colaborare_Licee_scholars.docx" download>Parnership agreement (editable)</a>
+
+
+#### List of partner high schools
+
+Coming soon...
+
 
 #### Resources for high schools
 

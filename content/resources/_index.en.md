@@ -23,7 +23,7 @@ redirectUrl: https://www.unicef.org/innovation/
 <i class="fas fa-file-word"></i>&nbsp;<a href="/words/Acord_colaborare_Licee_scholars.docx" download>Parnership agreement (editable)</a>
 
 
-## Information form and Informed Consent
+#### Information form and Informed Consent
 
 <i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Foaia-de-informare-si-consimtamant-informat-scholars.pdf" download>Informed Consent - Parent/Guardian</a> <br>
 <i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Consimtamant-elev-scholars.pdf" download>Informed Consent - Student</a> <br>

@@ -22,7 +22,7 @@ redirectUrl: https://www.unicef.org/innovation/
 <i class="fas fa-file-word"></i>&nbsp;<a href="/words/Acord_colaborare_Licee_scholars.docx" download>Acordul de colaborare (editabil)</a>
 
 
-## Fișe de informare și Consimțământ informat
+#### Fișe de informare și Consimțământ informat
 
 <i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Foaia-de-informare-si-consimtamant-informat-scholars.pdf" download>Consimțământ informat - Părinte/Tutore</a> <br>
 <i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Consimtamant-elev-scholars.pdf" download>Consimțământ informat - Elev</a> <br>
