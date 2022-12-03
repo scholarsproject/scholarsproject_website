@@ -16,23 +16,18 @@ redirectUrl: https://www.unicef.org/innovation/
 -->
 
 
-#### Acordul de parteneriat
+#### Acordul de parteneriat (Licee)
 
-<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Acord colaborare_Licee_SCHOLARS.pdf" download>Acordul de colaborare</a> <br>
-<i class="fas fa-file-word"></i>&nbsp;<a href="/words/Acord colaborare_Licee_SCHOLARS.docx" download>Acordul de colaborare (editabil)</a>
-
-
-#### Resurse pentru licee
-
-În curând...
+<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Acord_colaborare_Licee_scholars.pdf" download>Acordul de colaborare</a> <br>
+<i class="fas fa-file-word"></i>&nbsp;<a href="/words/Acord_colaborare_Licee_scholars.docx" download>Acordul de colaborare (editabil)</a>
 
 
-#### Materiale utile
+## Fișe de informare și Consimțământ informat
 
-În curând...
+<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Foaia-de-informare-si-consimtamant-informat-scholars.pdf" download>Consimțământ informat - Părinte/Tutore</a> <br>
+<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Consimtamant-elev-scholars.pdf" download>Consimțământ informat - Elev</a> <br>
 
 
-<br></br>
-#### Acordul de parteneriat
+#### Informare și Consințământ
 
-{{< embed-pdf pdfName="Acord colaborare_Licee_SCHOLARS.pdf">}}
+{{< embed-pdf pdfName="Foaia-de-informare-si-consimtamant-informat-scholars.pdf">}}

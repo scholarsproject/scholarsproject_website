@@ -19,3 +19,25 @@ redirectUrl: https://www.unicef.org/innovation/
 ##### Lista liceelor partenere
 
 În curând ...
+
+
+#### Acordul de parteneriat
+
+<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Acord_colaborare_Licee_scholars.pdf" download>Acordul de colaborare</a> <br>
+<i class="fas fa-file-word"></i>&nbsp;<a href="/words/Acord_colaborare_Licee_scholars.docx" download>Acordul de colaborare (editabil)</a>
+
+
+#### Resurse pentru licee
+
+În curând...
+
+
+#### Materiale utile
+
+În curând...
+
+
+<br></br>
+#### Acordul de parteneriat
+
+{{< embed-pdf pdfName="Acord_colaborare_Licee_scholars.pdf">}}

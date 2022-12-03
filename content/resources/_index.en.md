@@ -17,23 +17,18 @@ redirectUrl: https://www.unicef.org/innovation/
 -->
 
 
-#### Parnership agreement
+#### Parnership agreement (High Schools)
 
-<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Acord colaborare_Licee_SCHOLARS.pdf" download>Parnership agreement</a> <br>
-<i class="fas fa-file-word"></i>&nbsp;<a href="/words/Acord colaborare_Licee_SCHOLARS.docx" download>Parnership agreement (editable)</a>
-
-#### Resurse pentru licee
-
-Coming soon ...
+<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Acord_colaborare_Licee_scholars.pdf" download>Parnership agreement</a> <br>
+<i class="fas fa-file-word"></i>&nbsp;<a href="/words/Acord_colaborare_Licee_scholars.docx" download>Parnership agreement (editable)</a>
 
 
-#### Useful materials
+## Information form and Informed Consent
 
-Coming soon ...
+<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Foaia-de-informare-si-consimtamant-informat-scholars.pdf" download>Informed Consent - Parent/Guardian</a> <br>
+<i class="fas fa-file-pdf"></i>&nbsp;<a href="/pdfs/Consimtamant-elev-scholars.pdf" download>Informed Consent - Student</a> <br>
 
 
-<br></br>
-#### Parnership agreement
+#### Information and Consent
 
-{{< embed-pdf pdfName="Acord colaborare_Licee_SCHOLARS.pdf">}}
-
+{{< embed-pdf pdfName="Foaia-de-informare-si-consimtamant-informat-scholars.pdf">}}
